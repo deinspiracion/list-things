@@ -1,5 +1,5 @@
 # list-things
-Todo List con vue + vuetyfy
+Todo List con vue + vuetify
 almacenando tareas en LocalStorage
 
 # editar proyecto
